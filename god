@@ -1,3 +1,3 @@
 hello avi
 
-how are you git
+you git
